@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Saksake</title>
+    <link>https://norlanswan.github.io/veronica/categories/</link>
+    <description>Recent content in Categories on Saksake</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://norlanswan.github.io/veronica/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>https://norlanswan.github.io/veronica/categories/background/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://norlanswan.github.io/veronica/categories/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wallpapers</title>
+      <link>https://norlanswan.github.io/veronica/categories/wallpapers/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://norlanswan.github.io/veronica/categories/wallpapers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
